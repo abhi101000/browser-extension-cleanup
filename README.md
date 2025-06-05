@@ -15,8 +15,8 @@ The purpose of this task was to understand browser security risks by identifying
 4. Verified extension authenticity and reviews from the Chrome Web Store.
 5. Identified extensions that were unused, suspicious, or required unnecessary permissions.
 6. Removed the following extensions:
-   - ExtensionName1 – Reason: Unknown origin, high-risk permissions
-   - ExtensionName2 – Reason: Unused, installed automatically
+   - ExtensionName1captcha solver – Reason: Unknown origin, high-risk permissions
+   - ExtensionName2Buster – Reason: Unused, installed automatically
 7. Restarted the browser to apply changes.
 8. Noted improvement in browser performance post-removal.
 
